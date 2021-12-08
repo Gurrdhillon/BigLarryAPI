@@ -10,9 +10,9 @@ ASP.NET Core
 curl -X GET "https://localhost:5001/api/Calhfa/Get" -H  "accept: text/plain"
 
 ## Response
- HTTPS 200 OK
- Content-Type: application/json; charset=utf-8 
- Date: Wed08 Dec 2021 05:26:24 GMT 
+ HTTPS 200 OK\
+ Content-Type: application/json;\
+ Date: Wed08 Dec 2021 05:26:24 GMT \
  
 
 
