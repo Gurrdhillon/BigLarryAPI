@@ -2,11 +2,11 @@
 A RESTful API which access the SQL database and get information about specific type of loans and their current processing dates.
 
 ## Install
-.NET 5 https://dotnet.microsoft.com/download/dotnet/5.0
+.NET 5 https://dotnet.microsoft.com/download/dotnet/5.0 \
 ASP.NET Core
 
 ## Request
->api/calhfapi/get
+>api/calhfapi/get\
 curl -X GET "https://localhost:5001/api/Calhfa/Get" -H  "accept: text/plain"
 
 ## Response
