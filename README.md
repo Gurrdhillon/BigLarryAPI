@@ -5,11 +5,12 @@ A RESTful API which access the SQL database and get information about specific t
 .NET 5 https://dotnet.microsoft.com/download/dotnet/5.0 \
 ASP.NET Core
 
-## Request
+## Get List of Loans of and Dates
+### Request
 >api/calhfapi/get\
 curl -X GET "https://localhost:5001/api/Calhfa/Get" -H  "accept: text/plain"
 
-## Response
+### Response
  HTTPS 200 OK\
  Content-Type: application/json;\
  Date: Wed08 Dec 2021 05:26:24 GMT \
